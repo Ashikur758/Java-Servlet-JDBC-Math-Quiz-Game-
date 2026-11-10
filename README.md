@@ -70,7 +70,7 @@ The system automatically evaluates answers using reusable Java methods and store
 
 ### Objectives Screenshot
 
-![Project Objectives](screenshots/project-objectives.png)
+![Project Objectives](image2.png)
 
 ---
 
