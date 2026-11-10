@@ -10,7 +10,7 @@ public class ScoreDAO {
     // ---- change these to match your MySQL ----
     private static final String URL  = "jdbc:mysql://localhost:3306/math_whiz_db?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASS = "Ashik@123";
+    private static final String PASS = "";
 
     private Connection getConnection() throws SQLException {
         try { Class.forName("com.mysql.cj.jdbc.Driver"); }
