@@ -52,7 +52,7 @@ The system automatically evaluates answers using reusable Java methods and store
 
 ### Project Overview Screenshot
 
-![Project Overview](screenshots/project-overview.png)
+![Project Overview](image1.png)
 
 ---
 
