@@ -124,7 +124,7 @@ public static int isPrime(int number)
 | 1 | 0 |
 | 13 | 1 |
 
-**Source Code:** [View Prime Number Function](src/main/java/service/MathService.java)
+**Source Code:** [View Prime Number Function](MathWhiz/src/main/java/service/MathService.java)
 
 **Screenshot:**
 
@@ -154,7 +154,7 @@ public static int calculateMod(int a, int b)
 | 10 % 2 | 0 |
 | 15 % 4 | 3 |
 
-**Source Code:** [View Modulus Function](src/main/java/service/MathService.java)
+**Source Code:** [View Modulus Function](MathWhiz/src/main/java/service/MathService.java)
 
 **Screenshot:**
 
@@ -204,7 +204,7 @@ Math.tan(radians);
 
 Decimal answers are compared using an appropriate tolerance.
 
-**Source Code:** [View Trigonometric Functions](src/main/java/service/MathService.java)
+**Source Code:** [View Trigonometric Functions](MathWhiz/src/main/java/service/MathService.java)
 
 **Screenshot:**
 
@@ -329,7 +329,7 @@ The application uses JDBC to:
 - Retrieve saved player records.
 - Execute SQL queries using `PreparedStatement`.
 
-**Source Code:** [View ScoreDAO.java](src/main/java/dao/ScoreDAO.java)
+**Source Code:** [View ScoreDAO.java](MathWhiz/src/main/java/dao/ScoreDAO.java)
 
 **Database Screenshot:**
 
@@ -367,7 +367,7 @@ LIMIT 10;
 - Difficulty Level
 - Playing Date and Time
 
-**Source Code:** [View ScoreDAO.java](src/main/java/dao/ScoreDAO.java)
+**Source Code:** [View ScoreDAO.java](MathWhiz/src/main/java/dao/ScoreDAO.java)
 
 **Leaderboard Screenshot:**
 
@@ -437,7 +437,7 @@ Configure the installed JDK in your IDE.
 3. Execute the SQL file from the `database` directory.
 4. Verify that the database and table have been created.
 
-**Database SQL:** [View math_whiz_db.sql](database/math_whiz_db.sql)
+**Database SQL:** [View math_whiz_db.sql](MathWhiz/database/math_whiz_db.sql)
 
 ### Step 5: Configure JDBC Connection
 
@@ -519,19 +519,19 @@ Math-Whiz/
 
 | File Name | Description | Source Code |
 |---|---|---|
-| GameServlet.java | Handles game requests and responses | [View Code](src/main/java/controller/GameServlet.java) |
-| GameScore.java | Stores player score information | [View Code](src/main/java/model/GameScore.java) |
-| MathService.java | Contains mathematical methods | [View Code](src/main/java/service/MathService.java) |
+| GameServlet.java | Handles game requests and responses | [View Code](MathWhiz/src/main/java/controller/GameServlet.java) |
+| GameScore.java | Stores player score information | [View Code](MathWhiz/src/main/java/model/GameScore.java) |
+| MathService.java | Contains mathematical methods | [View Code](MathWhiz/src/main/java/service/MathService.java) |
 | ScoreDAO.java | Handles JDBC database operations | [View Code](src/main/java/dao/ScoreDAO.java) |
 
 ### 12.3 JSP Pages
 
 | File Name | Description | Source Code |
 |---|---|---|
-| index.jsp | Welcome page | [View Code](src/main/webapp/index.jsp) |
-| game.jsp | Mathematical game page | [View Code](src/main/webapp/game.jsp) |
-| result.jsp | Final score page | [View Code](src/main/webapp/result.jsp) |
-| leaderboard.jsp | Top 10 leaderboard page | [View Code](src/main/webapp/leaderboard.jsp) |
+| index.jsp | Welcome page | [View Code](MathWhiz/src/main/webapp/index.jsp) |
+| game.jsp | Mathematical game page | [View Code](MathWhiz/src/main/webapp/game.jsp) |
+| result.jsp | Final score page | [View Code](MathWhiz/src/main/webapp/result.jsp) |
+| leaderboard.jsp | Top 10 leaderboard page | [View Code](MathWhiz/src/main/webapp/leaderboard.jsp) |
 
 ### 12.4 CSS Files
 
@@ -597,15 +597,15 @@ After successfully completing this project, the following skills have been devel
 
 ### Repository Link
 
-[Visit GitHub Repository](https://github.com/YOUR_USERNAME/Math-Whiz)
+[Visit GitHub Repository](https://github.com/Ashikur758/Java-Servlet-JDBC-Math-Quiz-Game-)
 
 ### Project Directory Link
 
-[View Math-Whiz Project Directory](https://github.com/YOUR_USERNAME/Math-Whiz/tree/main)
+[View Math-Whiz Project Directory](https://github.com/Java-Servlet-JDBC-Math-Quiz-Game/Math-Whiz/tree/main)
 
 ### Source Code Directory
 
-[Explore Java Source Code](https://github.com/YOUR_USERNAME/Math-Whiz/tree/main/src/main/java)
+[Explore Java Source Code](https://github.com/Ashikur758/Java-Servlet-JDBC-Math-Quiz-Game-/tree/main/MathWhiz))
 
 ---
 
@@ -615,7 +615,7 @@ This project was developed for academic and educational purposes as part of a Ja
 
 ---
 
-### ⭐ YOUR NAME – MATH WHIZ
+### ⭐ ASHIKUR – MATH WHIZ
 
 **Developed using Java, Servlet, JSP, JDBC, and MySQL.**
 
