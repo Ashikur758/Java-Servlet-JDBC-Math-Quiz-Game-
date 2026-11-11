@@ -91,7 +91,7 @@ The system automatically evaluates answers using reusable Java methods and store
 
 ### Development Environment
 
-![Development Environment](screenshots/development-environment.png)
+![Development Environment](image/image3.png)
 
 ---
 
@@ -128,7 +128,7 @@ public static int isPrime(int number)
 
 **Screenshot:**
 
-![Prime Number Function](screenshots/prime-number.png)
+![Prime Number Function](image/image4.png)
 
 ### 4.2 Modulus Function
 
@@ -158,7 +158,7 @@ public static int calculateMod(int a, int b)
 
 **Screenshot:**
 
-![Modulus Function](screenshots/modulus.png)
+![Modulus Function](image/image5.png)
 
 ### 4.3 Trigonometric Functions
 
@@ -208,7 +208,7 @@ Decimal answers are compared using an appropriate tolerance.
 
 **Screenshot:**
 
-![Trigonometric Functions](screenshots/trigonometry.png)
+![Trigonometric Functions](image/image6.png)
 
 ---
 
@@ -251,7 +251,7 @@ if (trig2Correct) totalScore += 3;
 
 **Game Rules Screenshot:**
 
-![Game Rules](screenshots/game-rules.png)
+![Game Rules](image/image7.png)
 
 ---
 
@@ -261,25 +261,25 @@ if (trig2Correct) totalScore += 3;
 
 The welcome page allows players to enter their names and start the game.
 
-![Welcome Page](screenshots/home.png)
+![Welcome Page](image/image8.png)
 
 ### 6.2 Game Page
 
 The game page displays four mathematical questions with answer input fields.
 
-![Game Page](screenshots/game.png)
+![Game Page](image/image9.png)
 
 ### 6.3 Result Page
 
 The result page displays the player's name and final score out of 10.
 
-![Result Page](screenshots/result.png)
+![Result Page](image/image10.png)
 
 ### 6.4 Leaderboard Page
 
 The leaderboard displays the ten highest player scores retrieved from the database.
 
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](image/image11.png)
 
 ---
 
@@ -333,11 +333,11 @@ The application uses JDBC to:
 
 **Database Screenshot:**
 
-![Database Structure](screenshots/database.png)
+![Database Structure](image/image12.png)
 
 **JDBC Connection Screenshot:**
 
-![JDBC Connection](screenshots/jdbc-connection.png)
+![JDBC Connection](image/image13.png)
 
 ---
 
@@ -369,9 +369,6 @@ LIMIT 10;
 
 **Source Code:** [View ScoreDAO.java](MathWhiz/src/main/java/dao/ScoreDAO.java)
 
-**Leaderboard Screenshot:**
-
-![Top 10 Leaderboard](screenshots/top-10-database.png)
 
 ---
 
@@ -392,9 +389,6 @@ The application is tested using different mathematical inputs.
 | All answers correct | 10 Marks |
 | Incorrect answers | Corresponding marks not awarded |
 
-### Testing Results
-
-![Testing Results](screenshots/testing.png)
 
 ---
 
@@ -465,7 +459,7 @@ Start the Tomcat server and open the application in your browser.
 
 **Project Setup Screenshot:**
 
-![Project Setup](screenshots/project-setup.png)
+![Project Setup](image/image14.png)
 
 ---
 
@@ -554,7 +548,7 @@ Math-Whiz/
 
 ### Project Structure Screenshot
 
-![Project Structure](screenshots/project-structure.png)
+![Project Structure](image/image14.png)
 
 ---
 
@@ -574,11 +568,6 @@ After successfully completing this project, the following skills have been devel
 - Developing a leaderboard system.
 - Managing and documenting projects using GitHub.
 
-### Source Code Screenshot
-
-![Source Code](screenshots/source-code.png)
-
----
 
 ## 👨‍💻 14. Developer Information
 
