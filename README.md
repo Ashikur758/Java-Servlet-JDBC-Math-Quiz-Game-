@@ -1,7 +1,6 @@
 # 🎮 Ashikur – MATH WHIZ
 ### Java Web Application Development | Lab Practice: Java Servlet & JDBC
-
-image15.png
+![Project Objectives](image15.png)
 
 A web-based mathematical game developed using **Java, Java Servlet, JSP, JDBC, and MySQL**.
 
