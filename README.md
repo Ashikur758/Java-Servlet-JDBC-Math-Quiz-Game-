@@ -1,6 +1,8 @@
 # 🎮 Ashikur – MATH WHIZ
 ### Java Web Application Development | Lab Practice: Java Servlet & JDBC
 
+image15.png
+
 A web-based mathematical game developed using **Java, Java Servlet, JSP, JDBC, and MySQL**.
 
 The application presents four mathematical challenges covering Prime Numbers, Modulus Operations, and Trigonometry. It evaluates answers using actual Java mathematical methods, calculates scores out of 10, stores player information in a MySQL database, and displays a Top 10 leaderboard.
